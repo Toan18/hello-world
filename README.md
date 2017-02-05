@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project as tradition demands !
+
+I'm in the mood to start learning JavaScript on 02.05.2017 !!!
